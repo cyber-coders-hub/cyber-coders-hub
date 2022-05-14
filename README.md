@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cyber-coder-hub
+- 👋 Hi, I’m @cyber-coders-hub
 - 👀 I’m interested in web development , cyber security.
 - 🌱 I’m currently learning python and django.
 - 💞️ I’m looking to collaborate on ...
@@ -7,10 +7,10 @@
 
 <h2 style="font-family:'Lucida Sans Unicode','Lucida Grande','Lucida Sans','DejaVu Sans Condensed',sans-serif;>Hello I am cyber-coder-hub<img src="https://c.tenor.com/UX-QYT2KtycAAAAi/brown-cony-bear.gif" width="250"></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-coder-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan Bhatta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyber-coders-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Pawan Bhatta" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-coder-hub" alt="Pawan Bhatta" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyber-coders-hub" alt="Pawan Bhatta" /></a> </p>
 
 
 *I am a web developer and a coder.*
@@ -35,11 +35,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-coder-hub&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true" alt="Pawan Bhatta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyber-coders-hub&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true" alt="Pawan Bhatta" /></p>
 
-[![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-coder-hub&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://git.io/streak-stats)
+[![Mine's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyber-coders-hub&show_icons=true&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true&count_private=true)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyber-coder-hub&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=1E33D9&sideNums=7957D5&ring=D56822&fire=D55B0C&currStreakLabel=7957D5&border=DD272700&stroke=7957D5&sideLabels=7957D5&dates=30DDD080)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cyber-coders-hub&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0D1117&currStreakNum=1E33D9&sideNums=7957D5&ring=D56822&fire=D55B0C&currStreakLabel=7957D5&border=DD272700&stroke=7957D5&sideLabels=7957D5&dates=30DDD080)](https://git.io/streak-stats)
 
 <!---
 cyber-coders-hub/cyber-coders-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
