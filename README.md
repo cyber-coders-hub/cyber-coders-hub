@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyber-coders-hub
 - 👀 I’m interested in web development , cyber security.
 - 🌱 I’m currently learning python and django.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking to collaborate on ...
 - 📫 Email me at : pawanbhatta1835@gmail.com
 
 <!---
